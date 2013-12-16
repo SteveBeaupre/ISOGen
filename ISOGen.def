@@ -1,0 +1,10 @@
+EXPORTS
+	_ResetAll                 @1
+	_SetWindowsHandles        @2
+	_SetVolumeIdentifier      @3
+	_AddDirectory             @4
+	_AddFile                  @5
+	_BuildISO                 @6
+	_PrintTree                @7
+	_GetNumErrorsMsg          @8
+	_GetErrorsMsg             @9
